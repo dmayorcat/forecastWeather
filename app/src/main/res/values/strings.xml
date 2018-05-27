@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="Current">Current</string>
+    <string name="Max">Max</string>
+    <string name="Min">Min</string>
+    <string name="Search">Search</string>
+    <string name="Speed">Speed</string>
+    <string name="Deg">Deg</string>
+    <string name="historial">Historial de Búsqueda</string>
+    <string name="parameter"><b>weather parameters</b></string>
+    <string name="Time">Time</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_activity_main4">Main4Activity</string>
+    <string name="title_activity_main5">Main5Activity</string>
+    <string name="title_activity_main6">Main6Activity</string>
+    <string name="title_activity_main7">Main7Activity</string>
+    <string name="title_activity_main8">Main8Activity</string>
+    <string name="compass">View Compass</string>
+    <string name="Parameters_weathers">Parameters Weathers</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

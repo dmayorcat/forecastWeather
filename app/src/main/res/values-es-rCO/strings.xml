@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clima2</string>
+    <string name="Current">Actual</string>
+    <string name="Search">Buscar</string>
+    <string name="Max">Max</string>
+    <string name="Min">MIn</string>
+    <string name="Speed">Velocidad</string>
+    <string name="Degrees">Grados</string>
+    <string name="historial">Search History</string>
+    <string name="parameter">Parámetros de clima</string>
+    <string name="Time">Horario</string>
+    <string name="compass">Ver Brújula</string>
+</resources>

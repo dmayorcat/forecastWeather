@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ithome"
+        android:title="Home" />
+    <item
+        android:id="@+id/itWindow1"
+        android:title="ventana 1" />
+    <item
+        android:id="@+id/itWindow2"
+        android:title="ventana 2" />
+    <item
+        android:id="@+id/itWindow3"
+        android:title="ventana 3" />
+    <item
+        android:id="@+id/itWindow4"
+        android:title="ventana 4" />
+    <item
+        android:id="@+id/itWindow5"
+        android:title="ventana 5" />
+    <item
+        android:id="@+id/itWindow6"
+        android:title="ventana 6" />
+    <item
+        android:id="@+id/itWindow7"
+        android:title="ventana 7" />
+
+</menu>
